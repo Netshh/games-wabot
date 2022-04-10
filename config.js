@@ -20,7 +20,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'd90a9e986e18778b',
+  'https://api.xteam.xyz': 'c9ff8b0974a1633f',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.xyz': 'apivinz',
   'https://pencarikode.xyz': 'pais',
@@ -28,8 +28,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'wa.me/6285713964963'
-global.author = 'Metro Bot'
+global.packname = 'Netsh BOT'
+global.author = 'Netsh Bot is Cool'
 
 global.multiplier = 69 // The higher, The harder levelup
 
